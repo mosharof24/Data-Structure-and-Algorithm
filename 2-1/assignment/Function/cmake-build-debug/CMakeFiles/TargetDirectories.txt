@@ -1,6 +1,0 @@
-/Users/masum/CLionProjects/Function/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/masum/CLionProjects/Function/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/masum/CLionProjects/Function/cmake-build-debug/CMakeFiles/Function_3.dir
-/Users/masum/CLionProjects/Function/cmake-build-debug/CMakeFiles/Function_4.dir
-/Users/masum/CLionProjects/Function/cmake-build-debug/CMakeFiles/Function_2.dir
-/Users/masum/CLionProjects/Function/cmake-build-debug/CMakeFiles/Function.dir
